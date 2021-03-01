@@ -1,0 +1,35 @@
+/*Anlly Vanessa Cardona*/
+*{
+	margin: 0;
+}
+body{
+	background: #E6E6FA;
+}
+
+.titulos{
+	background-color:blue;
+}
+h1, h2, h3{
+	color:white;
+	text-align:center;
+	
+}
+h2 {font-size:20px;}
+
+.imagen{
+	text-align:center;
+}
+
+table, th, td{
+  border: 2px  solid black;
+  color: white;
+  background-color:blue;
+}
+strong {
+  color: blue;
+}
+
+
+
+
+
